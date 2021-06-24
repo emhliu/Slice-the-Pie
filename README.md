@@ -1,4 +1,4 @@
-# Slice-the-Pie
+# Slice the Pie
 Web Application created with React where users guess UC Davis' 2020-21 revenues and 2019-20 expenses, view interactive pie charts, and see how their guesses compare to the actual data in https://ucdavis.app.box.com/s/ejwsc99lnmbsj1qox158kutu5c4xhy7i.
 
 
