@@ -5,6 +5,7 @@ Web Application created with React where users guess UC Davis' 2020-21 revenues 
 <br />
 <br />
 <br />
+<br />
 
 # Getting Started with Create React App
 
